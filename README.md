@@ -47,7 +47,6 @@ For more details, refer to the k6 docs:
 
 ## Dashboards
 
-<p>&nbsp;</p>
 
 [<img src="./images/dashboard-k6-prometheus-upper-section.png" width="500"/>](./images/dashboard-k6-prometheus.png)
 
